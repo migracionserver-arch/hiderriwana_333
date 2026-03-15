@@ -1,0 +1,261 @@
+[18:59:47] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[18:59:49] [ServerMain/INFO]: Loaded 1470 recipes
+[18:59:49] [ServerMain/INFO]: Loaded 1584 advancements
+[18:59:49] [Server thread/INFO]: Starting minecraft server version 1.21.11
+[18:59:49] [Server thread/INFO]: Loading properties
+[18:59:49] [Server thread/INFO]: Default game type: SURVIVAL
+[18:59:49] [Server thread/INFO]: Generating keypair
+[18:59:49] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:59:49] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:59:49] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[18:59:49] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:59:49] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:59:49] [Server thread/INFO]: Preparing level "world"
+[18:59:50] [Server thread/INFO]: Loading 0 persistent chunks...
+[18:59:50] [Server thread/INFO]: Preparing spawn area: 100%
+[18:59:50] [Server thread/INFO]: Time elapsed: 14 ms
+[18:59:50] [Server thread/INFO]: Done (0.309s)! For help, type "help"
+[18:59:59] [Server thread/INFO]: chino555[/10.242.90.119:54031] logged in with entity id 59 at (214.203416361126, 75.0, 178.9417083322906)
+[18:59:59] [Server thread/INFO]: chino555 joined the game
+[19:00:38] [Server thread/INFO]: UPFUTX_300[/10.242.149.228:59000] logged in with entity id 655 at (204.5, 67.0, 76.5)
+[19:00:38] [Server thread/INFO]: UPFUTX_300 joined the game
+[19:02:06] [Server thread/INFO]: UPFUTX_300 has made the advancement [Stone Age]
+[19:02:36] [Server thread/INFO]: UPFUTX_300 has made the advancement [Getting an Upgrade]
+[19:06:27] [Server thread/INFO]: chino555 has made the advancement [Stone Age]
+[19:06:29] [Server thread/INFO]: chino555 lost connection: Disconnected
+[19:06:29] [Server thread/INFO]: chino555 left the game
+[19:09:20] [Server thread/INFO]: UPFUTX_300 has made the advancement [Sweet Dreams]
+[19:13:36] [Server thread/INFO]: UPFUTX_300 has made the advancement [Monster Hunter]
+[19:17:21] [Server thread/INFO]: [Not Secure] [Server] asd
+[19:25:03] [Server thread/INFO]: chino555[/10.242.90.119:49753] logged in with entity id 10882 at (929.589069844018, 54.0, 145.20020087966486)
+[19:25:03] [Server thread/INFO]: chino555 joined the game
+[19:27:02] [Server thread/INFO]: chino555 has made the advancement [Getting an Upgrade]
+[19:30:37] [Server thread/INFO]: UPFUTX_300 has made the advancement [Acquire Hardware]
+[19:30:44] [Server thread/INFO]: UPFUTX_300 has made the advancement [Isn't It Iron Pick]
+[19:30:47] [Server thread/INFO]: UPFUTX_300 has made the advancement [Suit Up]
+[19:32:20] [Server thread/INFO]: [Not Secure] [Server] asd
+[19:33:49] [Server thread/INFO]: chino555 has made the advancement [Acquire Hardware]
+[19:34:41] [Server thread/INFO]: chino555 has made the advancement [Hot Stuff]
+[19:34:55] [Server thread/INFO]: chino555 has made the advancement [Monster Hunter]
+[19:35:18] [Server thread/INFO]: Made UPFUTX_300 a server operator
+[19:35:35] [Server thread/INFO]: [UPFUTX_300: The difficulty has been set to Normal]
+[19:35:36] [Server thread/INFO]: [UPFUTX_300: The difficulty has been set to Hard]
+[19:35:42] [Server thread/INFO]: [UPFUTX_300: Made UPFUTX_300 no longer a server operator]
+[19:37:36] [Server thread/INFO]: chino555 has made the advancement [The Cutest Predator]
+[19:38:11] [Server thread/INFO]: UPFUTX_300 has made the advancement [Not Today, Thank You]
+[19:38:58] [Server thread/INFO]: UPFUTX_300 has made the advancement [Diamonds!]
+[19:39:03] [Server thread/INFO]: UPFUTX_300 has made the advancement [Hot Stuff]
+[19:39:13] [Server thread/INFO]: chino555 has made the advancement [Isn't It Iron Pick]
+[19:39:28] [Server thread/INFO]: chino555 has made the advancement [Not Today, Thank You]
+[19:46:21] [Server thread/INFO]: chino555 has made the advancement [Diamonds!]
+[20:05:07] [Server thread/INFO]: hoa_xd[/10.242.148.126:58168] logged in with entity id 29540 at (217.5, 72.0, 88.5)
+[20:05:07] [Server thread/INFO]: hoa_xd joined the game
+[20:05:10] [Server thread/INFO]: [Not Secure] <chino555> HOA
+[20:05:16] [Server thread/INFO]: [Not Secure] <chino555> BUE
+[20:05:19] [Server thread/INFO]: [Not Secure] <hoa_xd> no que mal ejemplo
+[20:05:22] [Server thread/INFO]: [Not Secure] <UPFUTX_300> OA
+[20:05:32] [Server thread/INFO]: [Not Secure] <hoa_xd> hoa
+[20:06:15] [Server thread/INFO]: [Not Secure] <UPFUTX_300> me oya cenar
+[20:06:20] [Server thread/INFO]: [Not Secure] <UPFUTX_300> oa mi aldea lo dejas
+[20:06:28] [Server thread/INFO]: [Not Secure] <UPFUTX_300> ya qu cerca tuyo hay una aldea
+[20:06:33] [Server thread/INFO]: [Not Secure] <hoa_xd> tarde
+[20:06:35] [Server thread/INFO]: [Not Secure] <UPFUTX_300> beno, cerca del spawn
+[20:06:37] [Server thread/INFO]: [Not Secure] <UPFUTX_300> moriras
+[20:06:38] [Server thread/INFO]: UPFUTX_300 lost connection: Disconnected
+[20:06:38] [Server thread/INFO]: UPFUTX_300 left the game
+[20:06:41] [Server thread/INFO]: [Not Secure] <chino555> oh no hermano
+[20:06:47] [Server thread/INFO]: [Not Secure] [Server] oa morira
+[20:06:50] [Server thread/INFO]: [Not Secure] <hoa_xd> culpa de tai
+[20:06:52] [Server thread/INFO]: [Not Secure] <hoa_xd> cualquier cosa
+[20:06:54] [Server thread/INFO]: [Not Secure] <chino555> hoa unite pu a la llamada
+[20:07:03] [Server thread/INFO]: [Not Secure] <hoa_xd> no tengo ko bateria
+[20:07:06] [Server thread/INFO]: [Not Secure] <hoa_xd> ekisde ekisde
+[20:07:10] [Server thread/INFO]: [Not Secure] <chino555> ndetavy
+[20:07:23] [Server thread/INFO]: [Not Secure] <chino555> estamos sin diamante osea solo 7 tiene juan y yo 3
+[20:07:26] [Server thread/INFO]: [Not Secure] <chino555> estamo iniciando
+[20:07:36] [Server thread/INFO]: [Not Secure] <hoa_xd> anda toca pasto
+[20:07:40] [Server thread/INFO]: [Not Secure] <hoa_xd> como pio 3 diamantes tai
+[20:07:49] [Server thread/INFO]: [Not Secure] <chino555> axel le llamamos y dijo; JODANSE QUIERO MIMIR
+[20:08:03] [Server thread/INFO]: [Not Secure] <hoa_xd> kloco
+[20:08:07] [Server thread/INFO]: hoa_xd has made the advancement [Stone Age]
+[20:08:11] [Server thread/INFO]: [Not Secure] <chino555> EDAD DE PIEDRA
+[20:08:12] [Server thread/INFO]: hoa_xd has made the advancement [Getting an Upgrade]
+[20:08:20] [Server thread/INFO]: [Not Secure] <chino555> como vamos?
+[20:08:23] [Server thread/INFO]: [Not Secure] <chino555> con o sin equipos
+[20:08:29] [Server thread/INFO]: [Not Secure] <chino555> osea sin equipos hasta el end vamos
+[20:08:33] [Server thread/INFO]: [Not Secure] <chino555> concordas?
+[20:08:34] [Server thread/INFO]: [Not Secure] <hoa_xd> si
+[20:09:06] [Server thread/INFO]: [Not Secure] <chino555> box de mierda
+[20:09:11] [Server thread/INFO]: [Not Secure] <chino555> me fui a comprar un mouse
+[20:09:17] [Server thread/INFO]: [Not Secure] <chino555> Y NO ANDA LA RUEDITA
+[20:09:19] [Server thread/INFO]: [Not Secure] <chino555> ANDATE A LA MIERDA
+[20:09:21] [Server thread/INFO]: [Not Secure] <hoa_xd> XDD
+[20:09:26] [Server thread/INFO]: [Not Secure] <chino555> bue anda pero re jodido
+[20:09:30] [Server thread/INFO]: [Not Secure] <chino555> pero el click ES GOD
+[20:09:33] [Server thread/INFO]: [Not Secure] <hoa_xd> poetito tai
+[20:09:35] [Server thread/INFO]: [Not Secure] <chino555> el otro mouse no podia ni comer
+[20:09:45] [Server thread/INFO]: [Not Secure] <hoa_xd> nderasore
+[20:10:05] [Server thread/INFO]: [Not Secure] <chino555> osea iniciaba animacion de comer, paraba, iniciaba y asi infinitamente
+[20:10:23] [Server thread/INFO]: [Not Secure] <hoa_xd> XDD
+[20:10:28] [Server thread/INFO]: [Not Secure] <hoa_xd> nderakore
+[20:10:31] [Server thread/INFO]: [Not Secure] <hoa_xd> tan jodido pio
+[20:10:38] [Server thread/INFO]: [Not Secure] <chino555> si
+[20:10:46] [Server thread/INFO]: [Not Secure] <chino555> bue 30k no mas el mouse
+[20:10:56] [Server thread/INFO]: [Not Secure] <hoa_xd> god
+[20:12:06] [Server thread/INFO]: hoa_xd has made the advancement [Sweet Dreams]
+[20:12:09] [Server thread/INFO]: chino555 lost connection: Disconnected
+[20:12:09] [Server thread/INFO]: chino555 left the game
+[20:12:19] [Server thread/INFO]: chino555 (/10.242.90.119:65026) lost connection: Disconnected
+[20:12:26] [Server thread/INFO]: chino555[/10.242.90.119:65031] logged in with entity id 33793 at (701.3065821465295, 60.0, -6.300000011920929)
+[20:12:26] [Server thread/INFO]: chino555 joined the game
+[20:15:25] [Server thread/INFO]: hoa_xd has made the advancement [Acquire Hardware]
+[20:15:59] [Server thread/INFO]: hoa_xd has made the advancement [Isn't It Iron Pick]
+[20:17:02] [Server thread/INFO]: chino555 has made the advancement [Best Friends Forever]
+[20:17:33] [Server thread/INFO]: chino555 has made the advancement [The Parrots and the Bats]
+[20:19:09] [Server thread/INFO]: UPFUTX_300[/10.242.149.228:55242] logged in with entity id 38073 at (239.69999998807907, 7.0, 376.69999998807907)
+[20:19:09] [Server thread/INFO]: UPFUTX_300 joined the game
+[20:19:14] [Server thread/INFO]: [Not Secure] [Server] asd
+[20:20:20] [Server thread/INFO]: UPFUTX_300 has made the advancement [Cover Me with Diamonds]
+[20:20:37] [Server thread/INFO]: [Not Secure] <UPFUTX_300> voy a por ti oa
+[20:20:42] [Server thread/INFO]: [Not Secure] <chino555> CORRE HOA
+[20:20:49] [Server thread/INFO]: [Not Secure] <hoa_xd> ono
+[20:22:46] [Server thread/INFO]: [Not Secure] <UPFUTX_300> duerman
+[20:23:15] [Server thread/INFO]: chino555 has made the advancement [Sweet Dreams]
+[20:23:16] [Server thread/INFO]: [Not Secure] <UPFUTX_300> duerman calajo
+[20:23:21] [Server thread/INFO]: [Not Secure] <hoa_xd> kore tai
+[20:23:39] [Server thread/INFO]: [Not Secure] <UPFUTX_300> tai racismo
+[20:23:48] [Server thread/INFO]: [Not Secure] <UPFUTX_300> no se quizo dormir en cama negra
+[20:23:57] [Server thread/INFO]: [Not Secure] <hoa_xd> quemalejemplo
+[20:23:58] [Server thread/INFO]: [Not Secure] <chino555> cama blanca e mejor
+[20:24:03] [Server thread/INFO]: [Not Secure] <chino555> se puede tintar
+[20:24:25] [Server thread/WARN]: Mismatch in destroy block pos: is{x=645, y=79, z=371} is{x=647, y=78, z=371}
+[20:24:27] [Server thread/WARN]: Mismatch in destroy block pos: is{x=632, y=78, z=371} is{x=633, y=76, z=371}
+[20:26:27] [Server thread/INFO]: [Not Secure] <UPFUTX_300> ola tai
+[20:26:29] [Server thread/INFO]: [Not Secure] <UPFUTX_300> ola oa
+[20:26:35] [Server thread/INFO]: [Not Secure] <hoa_xd> hoa
+[20:35:05] [Server thread/INFO]: hoa_xd has made the advancement [Not Today, Thank You]
+[20:35:07] [Server thread/INFO]: hoa_xd has made the advancement [Monster Hunter]
+[20:35:41] [Server thread/INFO]: [Not Secure] <chino555> DUERMAN
+[20:35:43] [Server thread/INFO]: [Not Secure] <chino555> PUTAS
+[20:35:46] [Server thread/INFO]: [Not Secure] <UPFUTX_300> smvfsjfb afsv HAEF
+[20:35:49] [Server thread/INFO]: hoa_xd lost connection: Disconnected
+[20:35:49] [Server thread/INFO]: hoa_xd left the game
+[20:35:50] [Server thread/INFO]: [Not Secure] <UPFUTX_300> duerman o kick
+[20:35:52] [Server thread/INFO]: [Not Secure] <chino555> hitler
+[20:35:53] [Server thread/INFO]: hoa_xd[/10.242.148.126:59735] logged in with entity id 51855 at (355.03886965593216, 15.0, 740.3030552666587)
+[20:35:53] [Server thread/INFO]: hoa_xd joined the game
+[20:37:09] [Server thread/WARN]: Mismatch in destroy block pos: is{x=699, y=64, z=1542} is{x=699, y=62, z=1542}
+[20:37:09] [Server thread/WARN]: Mismatch in destroy block pos: is{x=699, y=64, z=1542} is{x=699, y=62, z=1542}
+[20:37:52] [Server thread/WARN]: Mismatch in destroy block pos: is{x=938, y=65, z=1663} is{x=938, y=62, z=1663}
+[20:37:53] [Server thread/WARN]: Mismatch in destroy block pos: is{x=938, y=65, z=1663} is{x=938, y=62, z=1663}
+[20:38:56] [Server thread/INFO]: [Not Secure] <chino555> TODOS
+[20:38:59] [Server thread/INFO]: [Not Secure] <chino555> ALIAZNA
+[20:39:12] [Server thread/INFO]: [Not Secure] <chino555> UNA DUNGEON
+[20:39:38] [Server thread/INFO]: [Not Secure] <chino555> thoa
+[20:40:00] [Server thread/INFO]: [Not Secure] <hoa_xd> kore tai
+[20:40:04] [Server thread/INFO]: [Not Secure] <chino555> gaetano
+[20:40:08] [Server thread/INFO]: [Not Secure] <chino555> es una puta mansion
+[20:40:10] [Server thread/INFO]: hoa_xd has made the advancement [Suit Up]
+[20:40:14] [Server thread/INFO]: [Not Secure] <chino555> los 3 pa limpiar esta wea
+[20:40:16] [Server thread/INFO]: [Not Secure] <hoa_xd> a ndetavy
+[20:40:25] [Server thread/INFO]: [Not Secure] <hoa_xd> kloco tai
+[20:40:32] [Server thread/INFO]: [Not Secure] <chino555> se unen?
+[20:40:44] [Server thread/INFO]: [Not Secure] <hoa_xd> pasa coords
+[20:40:55] [Server thread/INFO]: [Not Secure] <chino555> 1650 69 1523
+[20:41:36] [Server thread/INFO]: [Not Secure] <chino555> alianza solo pa invadir esto
+[20:41:46] [Server thread/INFO]: [Not Secure] <chino555> como en el end
+[20:41:55] [Server thread/INFO]: [Not Secure] <chino555> pq raro es esta mrd
+[20:43:36] [Server thread/INFO]: chino555 has made the advancement [Suit Up]
+[20:44:34] [Server thread/INFO]: [Not Secure] <chino555> estan viniendo?
+[20:46:00] [Server thread/INFO]: [Not Secure] <UPFUTX_300> 1650 69 153
+[20:46:45] [Server thread/INFO]: [Not Secure] <UPFUTX_300> duerman
+[20:46:49] [Server thread/INFO]: [Not Secure] <chino555> gaetano
+[20:46:57] [Server thread/INFO]: [Not Secure] <chino555> cayetano
+[20:47:21] [Server thread/INFO]: [Not Secure] <chino555> HOA
+[20:47:23] [Server thread/INFO]: [Not Secure] <chino555> OJEDA
+[20:47:24] [Server thread/INFO]: [Not Secure] <UPFUTX_300> OA
+[20:47:25] [Server thread/INFO]: [Not Secure] <chino555> OJO DE DA
+[20:47:28] [Server thread/INFO]: [Not Secure] <chino555> HOA
+[20:47:30] [Server thread/INFO]: [Not Secure] <chino555> BOLUDO
+[20:47:31] [Server thread/INFO]: [Not Secure] <chino555> REVIVI
+[20:47:36] [Server thread/INFO]: [Not Secure] <chino555> PEDAZO DE HOA
+[20:47:37] [Server thread/INFO]: [Not Secure] <UPFUTX_300> DORMI
+[20:47:50] [Server thread/INFO]: [Not Secure] <UPFUTX_300> OA EL QUE NO DUERME ES PUTO
+[20:47:59] [Server thread/INFO]: [Not Secure] <chino555> EL QUE NO DUERME ES FEMBOY
+[20:47:59] [Server thread/INFO]: [Not Secure] <UPFUTX_300> mdetavy....
+[20:50:33] [Server thread/INFO]: [Not Secure] <hoa_xd> eeeeeeeeeeeeeeeeeee
+[20:50:40] [Server thread/INFO]: [Not Secure] <hoa_xd> comanme los huevitos
+[20:50:42] [Server thread/INFO]: [Not Secure] <hoa_xd> estaba afk
+[20:50:44] [Server thread/INFO]: [Not Secure] <chino555> EL QUE NO DUERME ES FEMBOY
+[20:50:52] [Server thread/INFO]: [Not Secure] <hoa_xd> ya
+[20:50:55] [Server thread/INFO]: [Not Secure] <UPFUTX_300> cama drop
+[20:50:59] [Server thread/INFO]: [Not Secure] <chino555> vengan a las coords
+[20:51:10] [Server thread/INFO]: [Not Secure] <chino555> 1650 100 1488
+[20:51:13] [Server thread/INFO]: [Not Secure] <hoa_xd> nolose tai
+[20:51:22] [Server thread/INFO]: [Not Secure] <chino555> quitense las calabazas
+[20:51:26] [Server thread/INFO]: [Not Secure] <chino555> y invadimos esto
+[20:51:30] [Server thread/INFO]: [Not Secure] <hoa_xd> porque encuentro ancient city creo tai
+[20:51:31] [Server thread/INFO]: [Not Secure] <chino555> yo tengo 204141 perros
+[20:51:50] [Server thread/INFO]: [Not Secure] [Server] asd
+[20:51:58] [Server thread/WARN]: Mismatch in destroy block pos: is{x=408, y=-44, z=691} is{x=407, y=-44, z=691}
+[20:51:58] [Server thread/WARN]: Mismatch in destroy block pos: is{x=407, y=-44, z=691} is{x=406, y=-44, z=690}
+[20:52:21] [Server thread/INFO]: UPFUTX_300 has made the advancement [Ice Bucket Challenge]
+[20:53:05] [Server thread/INFO]: chino555 has made the advancement [Ice Bucket Challenge]
+[20:54:05] [Server thread/WARN]: UPFUTX_300 moved too quickly! 6.7875492298258,4.499991708862183,8.784444202323584
+[20:55:31] [Server thread/INFO]: hoa_xd lost connection: Disconnected
+[20:55:31] [Server thread/INFO]: hoa_xd left the game
+[20:58:34] [Server thread/INFO]: chino555 has made the advancement [Take Aim]
+[21:01:17] [Server thread/WARN]: UPFUTX_300 moved wrongly!
+[21:01:22] [Server thread/WARN]: UPFUTX_300 moved wrongly!
+[21:01:29] [Server thread/WARN]: UPFUTX_300 moved wrongly!
+[21:02:19] [Server thread/INFO]: UPFUTX_300 lost connection: Disconnected
+[21:02:19] [Server thread/INFO]: UPFUTX_300 left the game
+[21:02:30] [Server thread/INFO]: UPFUTX_300[/10.242.149.228:56627] logged in with entity id 77484 at (1671.669333608609, 90.02442408821369, 1450.7470660016904)
+[21:02:30] [Server thread/INFO]: UPFUTX_300 joined the game
+[21:03:55] [Server thread/INFO]: chino555 lost connection: Disconnected
+[21:03:55] [Server thread/INFO]: chino555 left the game
+[21:06:24] [Server thread/WARN]: UPFUTX_300 moved wrongly!
+[21:08:27] [Server thread/INFO]: chino555[/10.242.90.119:63417] logged in with entity id 79775 at (1675.2636347881285, 78.1837968405392, 1449.0822564369505)
+[21:08:27] [Server thread/INFO]: chino555 joined the game
+[21:14:50] [Server thread/INFO]: UPFUTX_300 lost connection: Disconnected
+[21:14:50] [Server thread/INFO]: UPFUTX_300 left the game
+[21:14:58] [Server thread/INFO]: UPFUTX_300[/10.242.149.228:60409] logged in with entity id 81772 at (1700.584672934304, 72.0, 1515.5340302654977)
+[21:14:58] [Server thread/INFO]: UPFUTX_300 joined the game
+[21:17:49] [Server thread/WARN]: UPFUTX_300 moved too quickly! -10.3671429352097,0.0,-7.102876814574074
+[21:17:56] [Server thread/WARN]: UPFUTX_300 moved too quickly! -9.909259044906321,1.8356928729438664,-8.33675749451777
+[21:18:34] [Server thread/WARN]: Mismatch in destroy block pos: is{x=1255, y=64, z=1259} is{x=1255, y=62, z=1259}
+[21:18:34] [Server thread/WARN]: Mismatch in destroy block pos: is{x=1257, y=64, z=1260} is{x=1257, y=62, z=1260}
+[21:18:34] [Server thread/WARN]: Mismatch in destroy block pos: is{x=1257, y=65, z=1260} is{x=1257, y=62, z=1260}
+[21:18:35] [Server thread/WARN]: Mismatch in destroy block pos: is{x=1258, y=64, z=1259} is{x=1258, y=62, z=1259}
+[21:18:35] [Server thread/WARN]: Mismatch in destroy block pos: is{x=1258, y=65, z=1259} is{x=1258, y=62, z=1259}
+[21:26:01] [Server thread/INFO]: [Not Secure] <chino555> hoqa
+[21:26:36] [Server thread/WARN]: Mismatch in destroy block pos: is{x=769, y=64, z=1220} is{x=768, y=63, z=1220}
+[21:26:36] [Server thread/WARN]: Mismatch in destroy block pos: is{x=769, y=64, z=1219} is{x=768, y=63, z=1220}
+[21:26:37] [Server thread/WARN]: Mismatch in destroy block pos: is{x=767, y=66, z=1214} is{x=767, y=64, z=1213}
+[21:26:37] [Server thread/WARN]: Mismatch in destroy block pos: is{x=768, y=65, z=1213} is{x=767, y=64, z=1211}
+[21:26:37] [Server thread/WARN]: Mismatch in destroy block pos: is{x=768, y=65, z=1213} is{x=767, y=64, z=1211}
+[21:28:06] [Server thread/INFO]: [Not Secure] <UPFUTX_300> dihh
+[21:33:36] [Server thread/INFO]: UPFUTX_300 lost connection: Disconnected
+[21:33:36] [Server thread/INFO]: UPFUTX_300 left the game
+[21:33:39] [Server thread/INFO]: [Not Secure] [Server] asd
+[21:34:26] [Server thread/WARN]: Mismatch in destroy block pos: is{x=773, y=73, z=1124} is{x=774, y=71, z=1125}
+[21:34:26] [Server thread/WARN]: Mismatch in destroy block pos: is{x=773, y=73, z=1124} is{x=774, y=71, z=1125}
+[21:34:26] [Server thread/WARN]: Mismatch in destroy block pos: is{x=773, y=73, z=1124} is{x=774, y=71, z=1125}
+[21:34:26] [Server thread/WARN]: Mismatch in destroy block pos: is{x=773, y=73, z=1124} is{x=774, y=71, z=1125}
+[21:34:26] [Server thread/WARN]: Mismatch in destroy block pos: is{x=771, y=73, z=1122} is{x=774, y=71, z=1125}
+[21:34:26] [Server thread/WARN]: Mismatch in destroy block pos: is{x=773, y=72, z=1120} is{x=772, y=72, z=1120}
+[21:34:27] [Server thread/WARN]: Mismatch in destroy block pos: is{x=769, y=74, z=1118} is{x=771, y=72, z=1119}
+[21:34:46] [Server thread/INFO]: [Not Secure] [Server] asd
+[21:35:19] [Server thread/INFO]: Stopping the server
+[21:35:19] [Server thread/INFO]: Stopping server
+[21:35:19] [Server thread/INFO]: Saving players
+[21:35:19] [Server thread/INFO]: chino555 lost connection: Server closed
+[21:35:19] [Server thread/INFO]: chino555 left the game
+[21:35:19] [Server thread/INFO]: Saving worlds
+[21:35:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21:35:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[21:35:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[21:35:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:35:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:35:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:35:20] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
